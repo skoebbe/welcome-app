@@ -11,7 +11,7 @@ import edu.macalester.graphics.GraphicsObject;
 import edu.macalester.graphics.GraphicsText;
 
 /**
- * A lively animation to let you know your development environment is working!
+ * A lively animation to l et you know your development environment is working!
  */
 public class Welcome {
     private static final double
